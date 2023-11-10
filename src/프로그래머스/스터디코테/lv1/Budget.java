@@ -1,4 +1,4 @@
-package 프로그래머스.스터디코테;
+package 프로그래머스.스터디코테.lv1;
 
 import java.util.Arrays;
 
